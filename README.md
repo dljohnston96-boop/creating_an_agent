@@ -58,7 +58,7 @@ The selected environment determines where the agent and its associated resources
 
 **Expected Result:** Microsoft Copilot Studio is accessible, and the correct environment is selected.
 
-![Copilot Studio Home Page](images/01-copilot-studio-home.png)
+<img width="1843" height="906" alt="image" src="https://github.com/user-attachments/assets/72f9d6e8-01d7-428f-8ca5-c7e709d321df" />
 
 ## Step 2: Creating a New Agent
 
@@ -71,7 +71,7 @@ The selected environment determines where the agent and its associated resources
 
 **Expected Result:** A new agent is created and available for configuration.
 
-![Creating a New Agent](images/02-create-agent.png)
+<img width="1537" height="596" alt="image" src="https://github.com/user-attachments/assets/15ff7df6-7a21-4118-b8e7-f7ca1031912d" />
 
 ## Step 3: Configuring Agent Details and Instructions
 
@@ -88,7 +88,7 @@ Agent instructions define how the AI should respond to users and what responsibi
 
 **Expected Result:** The agent's identity and instructions are successfully configured.
 
-![Agent Configuration](images/03-agent-configuration.png)
+<img width="1809" height="672" alt="image" src="https://github.com/user-attachments/assets/2b34be64-9d10-4e10-9d0b-0bb0f9863f25" />
 
 ## Step 4: Adding Knowledge Sources
 
@@ -104,7 +104,7 @@ Knowledge sources allow the agent to reference designated information when gener
 
 **Expected Result:** The selected knowledge source is added and available once processing is complete.
 
-![Knowledge Source Configuration](images/04-knowledge-sources.png)
+<img width="1807" height="712" alt="image" src="https://github.com/user-attachments/assets/9c0242cd-ea95-4813-81d6-0928442c6080" />
 
 ## Step 5: Configuring Agent Capabilities
 
@@ -119,7 +119,7 @@ Additional capabilities may include connectors, tools, or Power Automate flows t
 
 **Expected Result:** The required agent capabilities are configured successfully.
 
-![Agent Capabilities](images/05-agent-capabilities.png)
+<img width="1807" height="738" alt="image" src="https://github.com/user-attachments/assets/0a873bf1-4e3f-4bc2-913e-c9c4b26666cf" />
 
 ## Step 6: Testing the Agent
 
@@ -135,7 +135,8 @@ Testing is necessary to verify that the agent behaves as expected before deploym
 
 **Expected Result:** The agent generates appropriate responses and follows its configured instructions.
 
-![Testing the Agent](images/06-agent-testing.png)
+<img width="1485" height="896" alt="image" src="https://github.com/user-attachments/assets/5f409c48-bc1b-4026-8b0b-f11ba2ccebd9" />
+<img width="1805" height="903" alt="image" src="https://github.com/user-attachments/assets/485c1edd-80a7-4f4d-abca-cecfed9da46f" />
 
 ## Step 7: Troubleshooting and Refining the Agent
 
@@ -151,8 +152,6 @@ This process allows the agent's behavior to be refined through iterative testing
 
 **Expected Result:** The agent demonstrates improved accuracy and consistency during testing.
 
-![Agent Troubleshooting](images/07-agent-troubleshooting.png)
-
 ## Step 8: Publishing the Agent
 
 1. Open the agent in Microsoft Copilot Studio.
@@ -167,7 +166,7 @@ Publishing prepares the configured version of the agent for use through supporte
 
 **Expected Result:** The agent is successfully published.
 
-![Publishing the Agent](images/08-agent-publishing.png)
+<img width="1807" height="910" alt="image" src="https://github.com/user-attachments/assets/7aa7206c-18a7-428a-a4b1-1590876d45f6" />
 
 ## Step 9: Configuring Deployment Channels
 
@@ -183,7 +182,7 @@ Deployment channels determine where users can access and interact with the publi
 
 **Expected Result:** The selected deployment channel is configured successfully.
 
-![Deployment Configuration](images/09-deployment-channels.png)
+<img width="1799" height="898" alt="image" src="https://github.com/user-attachments/assets/18452192-d37d-4532-b2da-482d9c80f452" />
 
 ## Step 10: Final Agent Validation
 
@@ -199,7 +198,7 @@ Final validation confirms that the agent has successfully progressed through the
 
 **Expected Result:** The agent is accessible through its configured channel and functions as intended.
 
-![Final Agent Demonstration](images/10-final-validation.png)
+<img width="1909" height="1015" alt="image" src="https://github.com/user-attachments/assets/1d2c60d6-3513-4712-9653-3d2a94ab1103" />
 
 # Project Outcome
 
