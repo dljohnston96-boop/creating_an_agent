@@ -1,3 +1,4 @@
+<img width="162" height="43" alt="image" src="https://github.com/user-attachments/assets/6620bf4f-78f0-418d-911f-263136dcefea" />
 
 # Microsoft Copilot Studio - AI Agent Creation and Deployment
 
